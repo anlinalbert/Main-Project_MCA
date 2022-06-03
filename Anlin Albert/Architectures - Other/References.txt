@@ -1,0 +1,2 @@
+Convolutional Neural Networks | CNN | Kernel | Stride | Padding | Pooling - https://www.youtube.com/watch?v=Y1qxI-Df4Lk
+CNN Architectures (AlexNet, VGGNet, Inception ResNet) - https://www.youtube.com/watch?v=CNNnzl8HIIU
