@@ -1,0 +1,6 @@
+Simple Explanation of LSTM - https://www.youtube.com/watch?v=LfnrRPFhkuY&t=1s
+What is LSTM (Long Short Term Memory)? - https://www.youtube.com/watch?v=b61DPVFX03I
+LSTM Networks - EXPLAINED! - https://www.youtube.com/watch?v=QciIcRxJvsM
+Understanding of LSTM Networks - https://www.geeksforgeeks.org/understanding-of-lstm-networks/
+LSTM and its equations - https://medium.com/@divyanshu132/lstm-and-its-equations-5ee9246d04af
+LSTMs Explained: A Complete, Technically Accurate, Conceptual Guide with Keras - https://medium.com/analytics-vidhya/lstms-explained-a-complete-technically-accurate-conceptual-guide-with-keras-2a650327e8f2
